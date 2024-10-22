@@ -1,7 +1,8 @@
+gunicorn
 torch
 torchaudio
 torchvision
 transformers
 numpy
 pandas
-flask
+Flask
